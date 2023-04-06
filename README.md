@@ -24,5 +24,7 @@ Etapa 3 : Nessa etapa eu tive que fazer os crgos de cada usuário de meu projeto
 
 -
 
+> nos meu projetos eu estava usando o  MySQL, mais vou disponibilizar os códigos e fique a vontade para ver em qualquer outro programa !
+
     Espero que tenha gostado do meu projeto, com muito esfoço e dedicação eu conseguir fazer e ser aprovado pelo meu
 	     			 tutor. Esse é apenas o começo !! Logo Logo tem mais :)
